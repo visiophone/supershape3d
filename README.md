@@ -5,9 +5,9 @@ Code Build over Daniel Shiffman's CodingRainbow SuperFormula's tutorial
 http://codingrainbow.com | https://youtu.be/RkuBWEkBrZA
 <br />
 Inspired by RezaAli's Supershape's: http://www.syedrezaali.com/#/3d-supershapes/
-<br />
+<br /><br />
 /////
-<br />
+<br /><br />
 Used for performing live visuals.
 <br />
 Sending sinal through Syphon to mix with other visual content and software. 
