@@ -1,4 +1,4 @@
-# SuperShape3D app | Works on Processing 3.0.1
+# SuperShape3D on Processin 
 
 Code Build over Daniel Shiffman's CodingRainbow SuperFormula's tutorial
 <br />
@@ -16,5 +16,7 @@ Audio Amplitude changes color cycles.
 <br />
 Tab SaveShape has an array to store nice shapes' definitions. that will loop then with the funtion shapeShift(int x);
 <br />
+Works on Processing 3.0.1
+<br /><br />
 Visiophone / Rodrigo Carvalho / August 2016
 
