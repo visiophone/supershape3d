@@ -2,8 +2,8 @@
 
 
 Code Build over Daniel Shiffman's CodingRainbow SuperFormula's tutorial
-
 http://codingrainbow.com | https://youtu.be/RkuBWEkBrZA
+
 Inspired by RezaAli's Supershape's: http://www.syedrezaali.com/#/3d-supershapes/
 
 /////
